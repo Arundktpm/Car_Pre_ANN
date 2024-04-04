@@ -13,7 +13,7 @@ In this project, we utilize machine learning techniques, specifically Artificial
 # Install Required Libraries:
 *Before running the code, ensure that you have installed the required libraries. You can install them using pip, if you haven't already:
 # CMD Command:
-* pip install numpy pandas matplotlib plotly scikit-learn tensorflow
+* __pip install numpy pandas matplotlib plotly scikit-learn tensorflow__
 # Prepare Data:
 *Make sure you have the dataset file "car_purchasing_data.csv" located at the correct path specified in the code  like ("/content/sample_data/car_purchasing_data.csv"). If the dataset is in a different location or has a different name, adjust the file path accordingly.
 
