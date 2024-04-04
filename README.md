@@ -8,3 +8,4 @@ In this project, we utilize machine learning techniques, specifically Artificial
 4. Pandas
 5. Matplotlib
 6. Scikit-learn
+7. seaborn
