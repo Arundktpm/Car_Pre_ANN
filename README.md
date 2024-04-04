@@ -1,3 +1,10 @@
 # Car_Sales_price-pridiction using ANN
-# objective
-In today's competitive automotive market, accurately predicting car sales prices is crucial for both buyers and sellers. This project aims to leverage the power of Artificial Neural Networks (ANNs) to predict car sales prices with high precision and reliability. By utilizing advanced machine learning techniques!
+# Overview
+In this project, we utilize machine learning techniques, specifically Artificial Neural Networks (ANN), to predict car sales prices. The dataset used for training and evaluation consists of historical car sales data, including features like mileage, brand, year of manufacture, etc., along with the corresponding sale prices.
+# Requirements
+Python 3.x
+TensorFlow
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
